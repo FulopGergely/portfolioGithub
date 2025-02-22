@@ -16,7 +16,7 @@ module.exports = {
 
     colors: {
       transparent: "transparent",
-      primary: "#5540af",
+      primary: "rgb(40, 77, 164)",
       secondary: "#252426",
       white: "#ffffff",
       black: "#000000",
@@ -29,10 +29,10 @@ module.exports = {
       "grey-50": "#f4f3f8",
       "grey-60": "#edebf6",
       "grey-70": "#d8d8d8",
-      "hero-gradient-from": "rgba(85, 64, 174, 0.95)",
-      "hero-gradient-to": "rgba(65, 47, 144, 0.93)",
-      "blog-gradient-from": "#8f9098",
-      "blog-gradient-to": "#222222",
+      "hero-gradient-from": "rgba(21, 51, 123, 0.9)",
+      "hero-gradient-to": "rgba(21, 51, 123, 0.9)",
+      "blog-gradient-from": "rgba(21, 51, 123)",
+      "blog-gradient-to": "rgba(21, 51, 123)",
     },
 
     container: {
